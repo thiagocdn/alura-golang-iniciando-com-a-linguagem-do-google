@@ -1,0 +1,9 @@
+06/01/2022 22:53:50 - https://www.caelum.com.br - online: true
+06/01/2022 22:53:51 - https://random-status-code.herokuapp.com - online: true
+06/01/2022 22:53:51 - https://www.alura.com.br - online: true
+06/01/2022 22:53:56 - https://www.caelum.com.br - online: true
+06/01/2022 22:53:57 - https://random-status-code.herokuapp.com - online: true
+06/01/2022 22:53:57 - https://www.alura.com.br - online: true
+06/01/2022 22:54:02 - https://www.caelum.com.br - online: true
+06/01/2022 22:54:03 - https://random-status-code.herokuapp.com - online: false
+06/01/2022 22:54:04 - https://www.alura.com.br - online: true
